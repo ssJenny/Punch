@@ -1,0 +1,34 @@
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.clearfix:after {
+  display: block;
+  content: ".";
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.block {
+  display: block;
+}
+.text-sm {
+  font-size: 24rpx;
+}
+.text-base {
+  font-size: 28rpx;
+}
+.mt-1 {
+  margin-top: 8rpx;
+}
+.color-gray {
+  color: #868887;
+}
+.color-orange {
+  color: #FCB000;
+}

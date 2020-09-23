@@ -1,0 +1,2 @@
+@import "./public/wxss/iconfont.wxss";
+@import "./public/wxss/common.wxss";

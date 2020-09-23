@@ -1,0 +1,21 @@
+<view class="container">
+  <view class="header">
+    <view class="avator">
+      <image src="{{avatarUrl}}"></image>
+    </view>
+  </view>
+  <view class="card-list">
+    <view class="card-item">
+      <text class="block">好好吃饭</text>
+      <text class="block text-sm mt-1 color-gray">已完成目标<text class="color-orange">1</text>天</text>
+      <icon class="iconfont icon-complete checked"></icon>
+    </view>
+    <!-- <view class="card-item"></view> -->
+    <!-- <view class="card-item"></view> -->
+    <!-- <view class="card-item"></view> -->
+    <!-- <view class="card-item"></view> -->
+  </view>
+  <view class="button-add">
+    <icon class="iconfont icon-add"></icon>
+  </view>
+</view>

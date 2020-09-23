@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1600847517029'); /* IE9 */
+  src: url('iconfont.eot?t=1600847517029#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPYAAsAAAAACFAAAAOJAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqEEINKATYCJAMQCwoABCAFhG0HQRs1B8ieA+7mVobJK2PEyZy3HTxPdeX7VTWTdiCqN6LOq3ughU8BT9JYuVSXDpjZAeQGH7m2lAY1r5W+6+d89owBDAEBvLMQHsJSAAFF7Pw/x4xX4MP8q3TKaBztzfZmo2gd2C4yye6ITohvGLvyIm6GAA7l1CFd5tv7QgODsZcAMie0qtBImTE1tYKFEC050SD7iGCp7eoRsNf/fflIoxYoIhrjVgOmzXRh+Kb3mxQdxkJjdEg4nhNgp4EG6gADMqPUPYlymK5D4yibKzQDFhYKxlo5/SYlFkPSvagt818eKAQNEsWo9gBoglT6xCQ2EwrenGZC4E1KFRrghexuATZwDXiO9GXGeXwE8cpIJdfz/TqTzdPDX/rwuikZQ2T6GykpQ9LShmUcqUPFF2qm1NSqjXHlnOWtE4nVnEvx2MUlOJ5Q1VEOjX81qbR2FFLzN8aEx6p4V04UF+039nbciLvp+juvh9emHL1ZXB+5seMaKrw+NLF5sb/zpkjcDce7Ukp7KqdI2F+IeAivu/7lkkrpNvgQffLLeK/LcfSzr0W3/1e35tU5e+zdqFrzC6/rbjXQV3Nzr+or2r2ouWqu5OZd0QML87LNu7cHFH7N798m3iz4/SdeJ2j4CB3fYFdT/iWtcxqfC891Lr3uvYvbxu3yrhId5ZqEJVHlHvmiKlsq9uhvEy6GseSgUOmCQbJfsHShOknJBT1CY8HA7dlNCku/LjOj18b2dyUV9S9VKGlmAQUgZlGntwfQHcoCsfqBbvSjd8IfVHw4Pn+bb5Z7pUPZ+8uf8sMxhn7ivyVpLfmtkpYdRpUZFmNkuS3W7mQYTBUABTg4wM/MQyF5Y2iLtk6CYKUkDBT5KAsaiyoIg6kDEVyaQBSL9uBQW/fTXQpbRBkxNlDLZgBCAXdBEZAEmgIeIwwmFyIU8xmiFKjBYZgUvqBLtTNbnRlKoGnSlWb6LjOWTVpB7S3sOVGclPm4R/ApjFHDeg2yuQUy8BiHLL7YwRIxNI1dSt3A7ZAkjhawi+BLZ4ZI7tWvP63smzqTXVpo0RkGKASgIZO4Qmbi48gw7mChlfv5W4DlTIKCa9oqgo8A5kS4PmmongYtEAt11qrtWl6zmAuWgSUIBjINxpFCugEnSMy0gywo3y4C+AgdM3okczz1UbdpbdWd+bXpE54CHIxNRpRoMRLBOrSWPIGgNgVeSXmi1oUCAAAA') format('woff2'),
+  url('iconfont.woff?t=1600847517029') format('woff'),
+  url('iconfont.ttf?t=1600847517029') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1600847517029#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-complete:before {
+  content: "\e69d";
+}
+
+.icon-delete:before {
+  content: "\e64b";
+}
+
+.icon-add:before {
+  content: "\e6d4";
+}
+
